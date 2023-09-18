@@ -39,6 +39,9 @@
 
 - [Serve](https://github.com/vercel/serve)
 
+### Toasts
+
+- [Sonner](https://sonner.emilkowal.ski)
 ## Backend
 
 ### Django
