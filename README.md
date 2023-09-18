@@ -18,10 +18,6 @@
 
 - [framer-motion](https://www.framer.com/motion/)
 
-### Notifications
-
-- [react-hot-toast](https://react-hot-toast.com/)
-
 ### Forms
 
 - [react-hook-form](https://www.react-hook-form.com/)
@@ -42,6 +38,8 @@
 ### Toasts
 
 - [Sonner](https://sonner.emilkowal.ski)
+- [react-hot-toast](https://react-hot-toast.com/)
+
 ## Backend
 
 ### Django
